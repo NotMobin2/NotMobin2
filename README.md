@@ -43,9 +43,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Medium+Level+Hacker...;Reverse+First,+Ask+Later.;I+see+code+in+hex.&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000">
 </p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/46/7b/03/467b03f016fbe4df9b68e66abcaab5b1.png" width="300px" alt="Alucard Transparent">
-</p>
 
 <p align="center" style="font-style: italic; font-size: 18px; margin-top: 10px;">
   "The Bird of Hermes is My Name<br>
