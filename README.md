@@ -40,7 +40,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=برد+آف+هرمیز+|+My+Name+Is...&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Medium+Level+Hacker...;Reverse+First,+Ask+Later.;I+see+code+in+hex.&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000">
 </p>
 
 <p align="center">
@@ -48,6 +48,6 @@
 </p>
 
 <p align="center" style="font-style: italic; font-size: 18px; margin-top: 10px;">
-  "برد آف هرمیز. مای نیم ایز..."  
-  <br>– <b>NotMobin</b>
+  "The Bird of Hermes is My Name<br>
+  Eating My Wings to Make Me Tame."  
 </p>
