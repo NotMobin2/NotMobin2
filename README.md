@@ -1,11 +1,7 @@
 <h1 align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Hellsing_logo.png/640px-Hellsing_logo.png" width="300px"><br>
+  <img src="https://i.pinimg.com/736x/d1/6e/bb/d16ebb0e036229853f0f4e731c5f8c2a.jpg" width="200px"><br>
   <b><code>@NotMobin2</code></b>
 </h1>
-
-<p align="center">
-  <img src="https://github.com/NotMobin2/NotMobin2/assets/your_custom_asset.png" width="150px" alt="Hellsing Seal Style Hand">
-</p>
 
 <p align="center">
   🧠 <b>System Programmer</b> • 🧩 <b>Reverse Engineer</b> • 🛡️ <b>Cyber Security Specialist</b><br>
@@ -37,7 +33,7 @@
 ### ⚡ Contact & More
 
 - 📫 **Email:** `benyaminrostami00@gmail.com`
-- 🕵️‍♂️ **Pronouns:** He/Him
+- 🕵️‍♂️ **Pronouns:** He/Him  
 - ☠️ **Fun fact:** I reverse things not meant to be reversed
 
 ---
