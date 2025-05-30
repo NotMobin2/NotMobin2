@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/08/f3/c6/08f3c69a2c6787689f5ee1717748d0f3.gif" width="200px"><br>
+  <img src="https://i.pinimg.com/736x/69/72/ff/6972ff594cce4bc0113ece46510a9749.jpg" width="200px"><br>
   <b><code>@NotMobin</code></b>
 </h1>
 
@@ -12,7 +12,7 @@
 
 ### 👁️‍🗨️ About Me
 
-- 🔬 **Low-level hacker mind** with a love for **reverse engineering protocols & memory**
+- 🔬 ** Medium-level hacker mind with a love for reversing protocols and digging into memory**
 - 🌱 Currently exploring **kernel-level exploit dev**, **eBPF**, and **malware analysis**
 - 🛡️ Certified: `CEH v11` / `v13`
 - 🔧 Tools: `IDA`, `Ghidra`, `Wireshark`, `x64dbg`, `Burp`, `Metasploit`
