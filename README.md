@@ -44,10 +44,10 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/46/7b/03/467b03f016fbe4df9b68e66abcaab5b1.jpg" width="300px" alt="Alucard">
+  <img src="https://i.pinimg.com/736x/46/7b/03/467b03f016fbe4df9b68e66abcaab5b1.png" width="300px" alt="Alucard Transparent">
 </p>
 
 <p align="center" style="font-style: italic; font-size: 18px; margin-top: 10px;">
-  "I am Alucard. And I will fight for what I believe."  
-  <br>– <b>Alucard</b>
+  "برد آف هرمیز. مای نیم ایز..."  
+  <br>– <b>NotMobin</b>
 </p>
