@@ -8,11 +8,11 @@
   <code>C++</code> • <code>x86 ASM</code> • <code>Kernel</code> • <code>Networking</code>
 </p>
 
----
+<hr>
 
 ### 👁️‍🗨️ About Me
 
-- 🔬 ** Medium-level hacker mind with a love for reversing protocols and digging into memory**
+- 🔬 **Medium-level hacker mind with a love for reversing protocols and digging into memory**
 - 🌱 Currently exploring **kernel-level exploit dev**, **eBPF**, and **malware analysis**
 - 🛡️ Certified: `CEH v11` / `v13`
 - 🔧 Tools: `IDA`, `Ghidra`, `Wireshark`, `x64dbg`, `Burp`, `Metasploit`
@@ -32,12 +32,17 @@
 
 ### ⚡ Contact & More
 
-- 📫 **Email:** `benyaminrostami00@gmail.com`
+- 📫 **Email:** `mobin.abasbo@gmail.com`
+- 💬 **Discord:** `mobinnot`
+- 📡 **Telegram:** [@mobinnot](https://t.me/mobinnot)
 - 🕵️‍♂️ **Pronouns:** He/Him  
-- ☠️ **Fun fact:** I reverse things not meant to be reversed
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Code+Smart%2C+Think+Deep...;Secure+Everything%2C+Trust+Nothing.&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=برد+آف+هرمیز+|+My+Name+Is...&font=Fira+Code&center=true&width=500&height=50&duration=3000&pause=1000">
+</p>
+
+<p align="center">
+  <img src="https://i.sstatic.net/4LUKvl.jpg" width="300px">
 </p>
